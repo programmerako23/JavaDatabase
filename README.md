@@ -1,3 +1,4 @@
+# JAVA TO DATABASE 
 
 I try to connect XAMPP SQL and PHP server in my java GUI
 with the combination of ArrayList as a part of principle in Data Structure and Algorithms our course for the program in Computer Science 
